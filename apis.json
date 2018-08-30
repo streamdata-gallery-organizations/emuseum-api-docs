@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - eMuseum API docs",
+	"description": "This is a repository of emuseum api docs APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/emuseum-api-docs.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://emuseum-api-docs.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "eMuseum API docs",
+			"x-api-slug": "emuseum-api-docs",
+			"description": "Developed in partnership with museums, The Museum System makes capturing, managing and accessing collection information quick and easy. eMuseum is a web-based software program that integrates seamlessly with TMS and other collection management systems to dynamically publish information to your website, Intranet, and kiosks. This API delivers search information and images from TMS &amp; eMuseum to GSA.gov.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/eMuseum5_Blog.jpg",
+			"humanURL": "http://gsa.github.io/eMuseum-API/",
+			"baseURL": "https://gsafinearts.pbs.gsa.gov//emuseum/api",
+			"tags": "eMuseum API docs",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/emuseum-api-docs/master/_listings/emuseum-api-docs/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "eMuseum API docs",
+	"include": [
+		{
+			"name": "eMuseum API docs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/emuseum-api-docs/master/_listings/emuseum-api-docs/apis.yaml"
+		}
+	]
+}
